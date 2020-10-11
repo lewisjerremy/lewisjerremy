@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/57540711/95689556-c5861780-0bce-11eb-8d95-73b9ae9b7b69.png)
 
 # Hey!
-My name is Jerremy Lewis and I'm studying Computer Science at the University of Calgary. You can find a directory of my projects [here](jerrlewis.me).
+My name is Jerremy Lewis and I'm studying Computer Science at the University of Calgary. You can find a directory of my projects [here](https://jerrlewis.me).
 ### Technologies
    ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=0097c7)	   ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=0097c7) ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=0097c7) ![](https://img.shields.io/badge/Tools-Flutter-informational?style=flat-square&logo=flutter&logoColor=white&color=0097c7) ![](https://img.shields.io/badge/Tools-ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=0097c7) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=0097c7) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=0097c7) ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat-square&logo=firebase&logoColor=white&color=0097c7) 
