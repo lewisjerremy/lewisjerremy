@@ -1,5 +1,3 @@
-![Header](https://user-images.githubusercontent.com/57540711/95689556-c5861780-0bce-11eb-8d95-73b9ae9b7b69.png)
-
 # Hey!
 My name is Jerremy Lewis and I'm studying Computer Science at the University of Calgary. You can find a directory of my projects [here](https://jerrlewis.me).
 ### Technologies
