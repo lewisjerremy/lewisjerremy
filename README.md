@@ -13,7 +13,7 @@ Since I was a kid I've always been facinated by systems. I love identifying patt
 
 ## Find me elsewhere
 <!-- ![](https://img.shields.io/badge/Lewisj-FFCC00?style=flat-square) -->
-![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/jerrlewis/)
+![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/jerrlewis/)
 <!-- ![](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium) -->
 
 
