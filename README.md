@@ -6,11 +6,10 @@ Since I was a kid I've always been facinated by systems. I love identifying patt
 
 > Process makes you more efficient - Steve Jobs
 
-## What I'm working on
+<!-- ## What I'm working on
 - [bettercalves](https://bettercalves.com): helping farmers keep livestock records
-<!-- - [openqueue](https://github.com/lewisjerremy?tab=repositories): limit website traffic with a queue -->
-- [algorithms-princetonu](https://github.com/lewisjerremy?tab=repositories): review on data structures and algorithms
-
+<!-- - [openqueue](https://github.com/lewisjerremy?tab=repositories): limit website traffic with a queue 
+- [algorithms-princetonu](https://github.com/lewisjerremy?tab=repositories): review on data structures and algorithms -->
 ## Find me elsewhere
 <!-- ![](https://img.shields.io/badge/Lewisj-FFCC00?style=flat-square) -->
 ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/jerrlewis/)
