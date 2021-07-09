@@ -4,7 +4,7 @@ I work as a QA developer intern for AGvisorPRO. I'm based in Calgary, Alberta.
 
 Since I was a kid I've always been facinated by systems. I love identifying patterns, analyzing opportunities, implementating changes, and testing results. 
 
-> Process makes you more efficient - Steve Jobs
+<!-- > Process makes you more efficient - Steve Jobs -->
 
 <!-- ## What I'm working on
 - [bettercalves](https://bettercalves.com): helping farmers keep livestock records
