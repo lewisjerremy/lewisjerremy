@@ -1,15 +1,7 @@
-# Hey, I'm Jerremy Lewis
+# Jerremy Lewis
 
-I work as a QA developer intern for AGvisorPRO. I'm based in Calgary, Alberta.
+I am a Full Stack Developer with industry experience building mobile applications. I thrive in startups - balancing best software engineering practices with velocity. I specialize in Node, working with Typescript through frameworks like React Native and Express. Please reach out if you'd like to connect.
 
-Since I was a kid I've always been facinated by systems. I love identifying patterns, analyzing opportunities, implementating changes, and testing results. 
-
-<!-- > Process makes you more efficient - Steve Jobs -->
-
-<!-- ## What I'm working on
-- [bettercalves](https://bettercalves.com): helping farmers keep livestock records
-<!-- - [openqueue](https://github.com/lewisjerremy?tab=repositories): limit website traffic with a queue 
-- [algorithms-princetonu](https://github.com/lewisjerremy?tab=repositories): review on data structures and algorithms -->
 ## Find me elsewhere
 <!-- ![](https://img.shields.io/badge/Lewisj-FFCC00?style=flat-square) -->
 ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/jerrlewis/)
